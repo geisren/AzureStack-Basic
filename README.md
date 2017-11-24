@@ -1,2 +1,2 @@
 ![logo](https://github.com/geisren/AzureStack-Basic/blob/master/DELL-EMC.jpg)  
-# Azure Stack Basic
+# Azure Stack Installation
