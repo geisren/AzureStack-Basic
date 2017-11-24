@@ -2,7 +2,7 @@
 # Azure Stack Installation
 This Framework  descriptives different Azure Stack installations and services.
 
-Deploys scenarios:
+Deploy scenarios:
  - Azure Stack Development Kit installation
  
  
