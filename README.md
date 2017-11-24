@@ -1,7 +1,8 @@
 ![logo](https://github.com/geisren/AzureStack-Basic/blob/master/DELL-EMC.jpg)  
 # Azure Stack Installation
-This is a Framework which descripted different Azure Stack installations and services.
-deploys the folowing scenarios:
+This Framework  descriptives different Azure Stack installations and services.
+
+Deploys scenarios:
  - Azure Stack Development Kit installation
  
  
