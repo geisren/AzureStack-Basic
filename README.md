@@ -1,6 +1,6 @@
 ![logo](https://github.com/geisren/AzureStack-Basic/blob/master/DELL-EMC.jpg)  
 # Azure Stack Installation
-
+This is a Framework which descripted different Azure Stack installations and services.
 
 Support   
 ==========
